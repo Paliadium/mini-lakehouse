@@ -35,9 +35,9 @@
 ## Скриншоты
 
 ### MinIO UI
-![MinIO UI](<img width="2538" height="1334" alt="image" src="https://github.com/user-attachments/assets/fe9a94f8-74b6-4bc8-8feb-7c8c6f14aa5a" />
+![MinIO UI](miniIO.bmp
 )
 
 ### Trino UI
-![Trino UI](<img width="1510" height="1317" alt="image" src="https://github.com/user-attachments/assets/51c3f574-ecee-430a-ab31-86f447162f3b" />
+![Trino UI](trino.bmp
 )
