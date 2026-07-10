@@ -13,7 +13,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <your-repo-url>
+   git clone <[your-repo-url](https://github.com/Paliadium/mini-lakehouse)>
    cd mini-lakehouse
    ```
 
